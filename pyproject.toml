@@ -1,0 +1,42 @@
+[project]
+name = "bettr"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "ReAXET", email = "joshua.sturm@outlook.com"},
+]
+dependencies = [
+    "passlib>=1.7.4",
+    "python-jose>=3.3.0",
+    "python-dotenv>=1.0.0",
+    "fastapi>=0.104.1",
+    "sqlalchemy>=2.0.23",
+    "sqlmodel>=0.0.14",
+    "asgiref>=3.7.2",
+    "celery>=5.3.6",
+    "faker>=20.1.0",
+    "fast-captcha>=0.2.1",
+    "loguru>=0.7.2",
+    "redis>=5.0.1",
+    "supervisor>=4.2.5",
+    "pydantic-core>=2.14.5",
+    "pydantic-settings>=2.1.0",
+    "pandas>=2.1.4",
+    "polars>=0.19.19",
+    "bs4>=0.0.1",
+    "selenium>=4.16.0",
+    "nba-api>=1.4.1",
+    "nhl-api>=0.0.1",
+    "sportsipy @ git+https://github.com/davidjkrause/sportsipy@master",
+    "rich>=13.7.0",
+    "click>=8.1.7",
+    "tqdm>=4.66.1",
+    "fastapi-template>=1.2.3",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"

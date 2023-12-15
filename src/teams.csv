@@ -1,0 +1,61 @@
+,id,full_name,abbreviation,nickname,city,state,year_founded,TEAM_ID,SEASON_YEAR,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CONFERENCE,TEAM_DIVISION,TEAM_CODE,TEAM_SLUG,W,L,PCT,CONF_RANK,DIV_RANK,MIN_YEAR,MAX_YEAR
+0,1610612737.0,Atlanta Hawks,ATL,Hawks,Atlanta,Georgia,1949.0,,,,,,,,,,,,,,,,
+1,1610612738.0,Boston Celtics,BOS,Celtics,Boston,Massachusetts,1946.0,,,,,,,,,,,,,,,,
+2,1610612739.0,Cleveland Cavaliers,CLE,Cavaliers,Cleveland,Ohio,1970.0,,,,,,,,,,,,,,,,
+3,1610612740.0,New Orleans Pelicans,NOP,Pelicans,New Orleans,Louisiana,2002.0,,,,,,,,,,,,,,,,
+4,1610612741.0,Chicago Bulls,CHI,Bulls,Chicago,Illinois,1966.0,,,,,,,,,,,,,,,,
+5,1610612742.0,Dallas Mavericks,DAL,Mavericks,Dallas,Texas,1980.0,,,,,,,,,,,,,,,,
+6,1610612743.0,Denver Nuggets,DEN,Nuggets,Denver,Colorado,1976.0,,,,,,,,,,,,,,,,
+7,1610612744.0,Golden State Warriors,GSW,Warriors,Golden State,California,1946.0,,,,,,,,,,,,,,,,
+8,1610612745.0,Houston Rockets,HOU,Rockets,Houston,Texas,1967.0,,,,,,,,,,,,,,,,
+9,1610612746.0,Los Angeles Clippers,LAC,Clippers,Los Angeles,California,1970.0,,,,,,,,,,,,,,,,
+10,1610612747.0,Los Angeles Lakers,LAL,Lakers,Los Angeles,California,1948.0,,,,,,,,,,,,,,,,
+11,1610612748.0,Miami Heat,MIA,Heat,Miami,Florida,1988.0,,,,,,,,,,,,,,,,
+12,1610612749.0,Milwaukee Bucks,MIL,Bucks,Milwaukee,Wisconsin,1968.0,,,,,,,,,,,,,,,,
+13,1610612750.0,Minnesota Timberwolves,MIN,Timberwolves,Minnesota,Minnesota,1989.0,,,,,,,,,,,,,,,,
+14,1610612751.0,Brooklyn Nets,BKN,Nets,Brooklyn,New York,1976.0,,,,,,,,,,,,,,,,
+15,1610612752.0,New York Knicks,NYK,Knicks,New York,New York,1946.0,,,,,,,,,,,,,,,,
+16,1610612753.0,Orlando Magic,ORL,Magic,Orlando,Florida,1989.0,,,,,,,,,,,,,,,,
+17,1610612754.0,Indiana Pacers,IND,Pacers,Indiana,Indiana,1976.0,,,,,,,,,,,,,,,,
+18,1610612755.0,Philadelphia 76ers,PHI,76ers,Philadelphia,Pennsylvania,1949.0,,,,,,,,,,,,,,,,
+19,1610612756.0,Phoenix Suns,PHX,Suns,Phoenix,Arizona,1968.0,,,,,,,,,,,,,,,,
+20,1610612757.0,Portland Trail Blazers,POR,Trail Blazers,Portland,Oregon,1970.0,,,,,,,,,,,,,,,,
+21,1610612758.0,Sacramento Kings,SAC,Kings,Sacramento,California,1948.0,,,,,,,,,,,,,,,,
+22,1610612759.0,San Antonio Spurs,SAS,Spurs,San Antonio,Texas,1976.0,,,,,,,,,,,,,,,,
+23,1610612760.0,Oklahoma City Thunder,OKC,Thunder,Oklahoma City,Oklahoma,1967.0,,,,,,,,,,,,,,,,
+24,1610612761.0,Toronto Raptors,TOR,Raptors,Toronto,Ontario,1995.0,,,,,,,,,,,,,,,,
+25,1610612762.0,Utah Jazz,UTA,Jazz,Utah,Utah,1974.0,,,,,,,,,,,,,,,,
+26,1610612763.0,Memphis Grizzlies,MEM,Grizzlies,Memphis,Tennessee,1995.0,,,,,,,,,,,,,,,,
+27,1610612764.0,Washington Wizards,WAS,Wizards,Washington,District of Columbia,1961.0,,,,,,,,,,,,,,,,
+28,1610612765.0,Detroit Pistons,DET,Pistons,Detroit,Michigan,1948.0,,,,,,,,,,,,,,,,
+29,1610612766.0,Charlotte Hornets,CHA,Hornets,Charlotte,North Carolina,1988.0,,,,,,,,,,,,,,,,
+0,,,,,,,,1610612737.0,2023-24,Atlanta,Hawks,ATL,East,Southeast,hawks,hawks,9.0,12.0,0.429,10.0,3.0,1949,2023
+0,,,,,,,,1610612738.0,2023-24,Boston,Celtics,BOS,East,Atlantic,celtics,celtics,16.0,5.0,0.762,1.0,1.0,1946,2023
+0,,,,,,,,1610612739.0,2023-24,Cleveland,Cavaliers,CLE,East,Central,cavaliers,cavaliers,13.0,9.0,0.591,6.0,3.0,1970,2023
+0,,,,,,,,1610612740.0,2023-24,New Orleans,Pelicans,NOP,West,Southwest,pelicans,pelicans,12.0,11.0,0.522,10.0,3.0,2002,2023
+0,,,,,,,,1610612741.0,2023-24,Chicago,Bulls,CHI,East,Central,bulls,bulls,9.0,14.0,0.391,12.0,4.0,1966,2023
+0,,,,,,,,1610612742.0,2023-24,Dallas,Mavericks,DAL,West,Southwest,mavericks,mavericks,13.0,8.0,0.619,3.0,1.0,1980,2023
+0,,,,,,,,1610612743.0,2023-24,Denver,Nuggets,DEN,West,Northwest,nuggets,nuggets,14.0,9.0,0.609,4.0,3.0,1976,2023
+0,,,,,,,,1610612744.0,2023-24,Golden State,Warriors,GSW,West,Pacific,warriors,warriors,10.0,12.0,0.455,11.0,5.0,1946,2023
+0,,,,,,,,1610612745.0,2023-24,Houston,Rockets,HOU,West,Southwest,rockets,rockets,10.0,9.0,0.526,8.0,2.0,1967,2023
+0,,,,,,,,1610612746.0,2023-24,LA,Clippers,LAC,West,Pacific,clippers,clippers,11.0,10.0,0.524,9.0,4.0,1970,2023
+0,,,,,,,,1610612747.0,2023-24,Los Angeles,Lakers,LAL,West,Pacific,lakers,lakers,14.0,9.0,0.609,5.0,1.0,1948,2023
+0,,,,,,,,1610612748.0,2023-24,Miami,Heat,MIA,East,Southeast,heat,heat,12.0,10.0,0.545,9.0,2.0,1988,2023
+0,,,,,,,,1610612749.0,2023-24,Milwaukee,Bucks,MIL,East,Central,bucks,bucks,15.0,7.0,0.682,3.0,1.0,1968,2023
+0,,,,,,,,1610612750.0,2023-24,Minnesota,Timberwolves,MIN,West,Northwest,timberwolves,timberwolves,17.0,4.0,0.81,1.0,1.0,1989,2023
+0,,,,,,,,1610612751.0,2023-24,Brooklyn,Nets,BKN,East,Atlantic,nets,nets,12.0,9.0,0.571,8.0,4.0,1976,2023
+0,,,,,,,,1610612752.0,2023-24,New York,Knicks,NYK,East,Atlantic,knicks,knicks,12.0,9.0,0.571,7.0,3.0,1946,2023
+0,,,,,,,,1610612753.0,2023-24,Orlando,Magic,ORL,East,Southeast,magic,magic,15.0,7.0,0.682,2.0,1.0,1989,2023
+0,,,,,,,,1610612754.0,2023-24,Indiana,Pacers,IND,East,Central,pacers,pacers,12.0,8.0,0.6,5.0,2.0,1976,2023
+0,,,,,,,,1610612755.0,2023-24,Philadelphia,76ers,PHI,East,Atlantic,sixers,sixers,14.0,7.0,0.667,4.0,2.0,1949,2023
+0,,,,,,,,1610612756.0,2023-24,Phoenix,Suns,PHX,West,Pacific,suns,suns,12.0,10.0,0.545,7.0,3.0,1968,2023
+0,,,,,,,,1610612757.0,2023-24,Portland,Trail Blazers,POR,West,Northwest,blazers,blazers,6.0,15.0,0.286,14.0,5.0,1970,2023
+0,,,,,,,,1610612758.0,2023-24,Sacramento,Kings,SAC,West,Pacific,kings,kings,12.0,8.0,0.6,6.0,2.0,1948,2023
+0,,,,,,,,1610612759.0,2023-24,San Antonio,Spurs,SAS,West,Southwest,spurs,spurs,3.0,18.0,0.143,15.0,5.0,1976,2023
+0,,,,,,,,1610612760.0,2023-24,Oklahoma City,Thunder,OKC,West,Northwest,thunder,thunder,14.0,7.0,0.667,2.0,2.0,1967,2023
+0,,,,,,,,1610612761.0,2023-24,Toronto,Raptors,TOR,East,Atlantic,raptors,raptors,9.0,13.0,0.409,11.0,5.0,1995,2023
+0,,,,,,,,1610612762.0,2023-24,Utah,Jazz,UTA,West,Northwest,jazz,jazz,7.0,15.0,0.318,12.0,4.0,1974,2023
+0,,,,,,,,1610612763.0,2023-24,Memphis,Grizzlies,MEM,West,Southwest,grizzlies,grizzlies,6.0,15.0,0.286,13.0,4.0,1995,2023
+0,,,,,,,,1610612764.0,2023-24,Washington,Wizards,WAS,East,Southeast,wizards,wizards,3.0,18.0,0.143,14.0,5.0,1961,2023
+0,,,,,,,,1610612765.0,2023-24,Detroit,Pistons,DET,East,Central,pistons,pistons,2.0,20.0,0.091,15.0,5.0,1948,2023
+0,,,,,,,,1610612766.0,2023-24,Charlotte,Hornets,CHA,East,Southeast,hornets,hornets,7.0,13.0,0.35,13.0,4.0,1988,2023

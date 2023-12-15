@@ -1,0 +1,31 @@
+TEAM_ID,SEASON_YEAR,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CONFERENCE,TEAM_DIVISION,TEAM_CODE,TEAM_SLUG,W,L,PCT,CONF_RANK,DIV_RANK,MIN_YEAR,MAX_YEAR,TeamName,Season
+1610612737,2023-24,Atlanta,Hawks,ATL,East,Southeast,hawks,hawks,9,12,0.429,10,3,1949,2023,Atlanta Hawks,2023-24
+1610612738,2023-24,Boston,Celtics,BOS,East,Atlantic,celtics,celtics,16,5,0.762,1,1,1946,2023,Boston Celtics,2023-24
+1610612739,2023-24,Cleveland,Cavaliers,CLE,East,Central,cavaliers,cavaliers,13,9,0.591,6,3,1970,2023,Cleveland Cavaliers,2023-24
+1610612740,2023-24,New Orleans,Pelicans,NOP,West,Southwest,pelicans,pelicans,12,11,0.522,10,3,2002,2023,New Orleans Pelicans,2023-24
+1610612741,2023-24,Chicago,Bulls,CHI,East,Central,bulls,bulls,9,14,0.391,12,4,1966,2023,Chicago Bulls,2023-24
+1610612742,2023-24,Dallas,Mavericks,DAL,West,Southwest,mavericks,mavericks,13,8,0.619,3,1,1980,2023,Dallas Mavericks,2023-24
+1610612743,2023-24,Denver,Nuggets,DEN,West,Northwest,nuggets,nuggets,14,9,0.609,4,3,1976,2023,Denver Nuggets,2023-24
+1610612744,2023-24,Golden State,Warriors,GSW,West,Pacific,warriors,warriors,10,12,0.455,11,5,1946,2023,Golden State Warriors,2023-24
+1610612745,2023-24,Houston,Rockets,HOU,West,Southwest,rockets,rockets,10,9,0.526,8,2,1967,2023,Houston Rockets,2023-24
+1610612746,2023-24,LA,Clippers,LAC,West,Pacific,clippers,clippers,11,10,0.524,9,4,1970,2023,Los Angeles Clippers,2023-24
+1610612747,2023-24,Los Angeles,Lakers,LAL,West,Pacific,lakers,lakers,14,9,0.609,5,1,1948,2023,Los Angeles Lakers,2023-24
+1610612748,2023-24,Miami,Heat,MIA,East,Southeast,heat,heat,12,10,0.545,9,2,1988,2023,Miami Heat,2023-24
+1610612749,2023-24,Milwaukee,Bucks,MIL,East,Central,bucks,bucks,15,7,0.682,3,1,1968,2023,Milwaukee Bucks,2023-24
+1610612750,2023-24,Minnesota,Timberwolves,MIN,West,Northwest,timberwolves,timberwolves,17,4,0.81,1,1,1989,2023,Minnesota Timberwolves,2023-24
+1610612751,2023-24,Brooklyn,Nets,BKN,East,Atlantic,nets,nets,12,9,0.571,8,4,1976,2023,Brooklyn Nets,2023-24
+1610612752,2023-24,New York,Knicks,NYK,East,Atlantic,knicks,knicks,12,9,0.571,7,3,1946,2023,New York Knicks,2023-24
+1610612753,2023-24,Orlando,Magic,ORL,East,Southeast,magic,magic,15,7,0.682,2,1,1989,2023,Orlando Magic,2023-24
+1610612754,2023-24,Indiana,Pacers,IND,East,Central,pacers,pacers,12,8,0.6,5,2,1976,2023,Indiana Pacers,2023-24
+1610612755,2023-24,Philadelphia,76ers,PHI,East,Atlantic,sixers,sixers,14,7,0.667,4,2,1949,2023,Philadelphia 76ers,2023-24
+1610612756,2023-24,Phoenix,Suns,PHX,West,Pacific,suns,suns,12,10,0.545,7,3,1968,2023,Phoenix Suns,2023-24
+1610612757,2023-24,Portland,Trail Blazers,POR,West,Northwest,blazers,blazers,6,15,0.286,14,5,1970,2023,Portland Trail Blazers,2023-24
+1610612758,2023-24,Sacramento,Kings,SAC,West,Pacific,kings,kings,12,8,0.6,6,2,1948,2023,Sacramento Kings,2023-24
+1610612759,2023-24,San Antonio,Spurs,SAS,West,Southwest,spurs,spurs,3,18,0.143,15,5,1976,2023,San Antonio Spurs,2023-24
+1610612760,2023-24,Oklahoma City,Thunder,OKC,West,Northwest,thunder,thunder,14,7,0.667,2,2,1967,2023,Oklahoma City Thunder,2023-24
+1610612761,2023-24,Toronto,Raptors,TOR,East,Atlantic,raptors,raptors,9,13,0.409,11,5,1995,2023,Toronto Raptors,2023-24
+1610612762,2023-24,Utah,Jazz,UTA,West,Northwest,jazz,jazz,7,15,0.318,12,4,1974,2023,Utah Jazz,2023-24
+1610612763,2023-24,Memphis,Grizzlies,MEM,West,Southwest,grizzlies,grizzlies,6,15,0.286,13,4,1995,2023,Memphis Grizzlies,2023-24
+1610612764,2023-24,Washington,Wizards,WAS,East,Southeast,wizards,wizards,3,18,0.143,14,5,1961,2023,Washington Wizards,2023-24
+1610612765,2023-24,Detroit,Pistons,DET,East,Central,pistons,pistons,2,20,0.091,15,5,1948,2023,Detroit Pistons,2023-24
+1610612766,2023-24,Charlotte,Hornets,CHA,East,Southeast,hornets,hornets,7,13,0.35,13,4,1988,2023,Charlotte Hornets,2023-24
